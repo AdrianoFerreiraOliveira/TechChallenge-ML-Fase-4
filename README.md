@@ -44,7 +44,7 @@ lstm-stock-api/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/lstm-stock-api.git
+git clone https://github.com/AdrianoFerreiraOliveira/TechChallenge-ML-Fase-4.git
 cd lstm-stock-api
 ```
 
@@ -135,11 +135,14 @@ Você pode subir a API usando plataformas como:
 
 ## 📹 Demonstração em Vídeo
 
-📽️ 
+📽️ https://youtu.be/LSBC1pZuLUk
 
 ---
 
 ## 👨‍💻 Autor
+
+## Link API:
+https://techchallenge-ml-fase-4.onrender.com/
 
 Desenvolvido por **Adriano Ferreira de Oliveira** – Tech Challenge MLET Fase 4.
 
